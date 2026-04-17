@@ -5,21 +5,20 @@ I'm a software engineer focused on building clean, efficient web and mobile appl
 Currently, I'm pursuing my degree in **Software Engineering** while working on projects that challenge me to grow as a developer.
  
 Everything here is built by me, focused on quality and innovation.
- <div align="center" style="margin: 30px 0; display: flex">
-<a href="https://www.linkedin.com/in/abdullahsaeed-us/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
+ 
+
+ <div align="center" style="margin: 30px 0;">
+<a href="https://www.linkedin.com/in/abdullahsaeed-us/" style="margin: 0 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="50" height="50" />
 </a>
-&nbsp;&nbsp;
-<a href="mailto:your.email@example.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Gmail" width="40" height="40" />
+<a href="mailto:your.email@example.com" style="margin: 0 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Gmail" width="50" height="50" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/abdullahsaeed">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="40" height="40" />
+<a href="https://github.com/abdullahsaeed" style="margin: 0 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="50" height="50" />
 </a>
-&nbsp;&nbsp;
-<a href="https://x.com/AbdullahSaeed_x">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/x.svg" alt="X" width="40" height="40" />
+<a href="https://x.com/your-username" style="margin: 0 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/x.svg" alt="X" width="50" height="50" />
 </a>
 </div>
  
