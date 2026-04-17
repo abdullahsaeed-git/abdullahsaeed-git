@@ -32,6 +32,7 @@ Coming soon. Check back for updates on my latest work.
 
 - **LinkedIn:** [Abdullah Saeed](https://www.linkedin.com/in/abdullahsaeed-us/)
 - **Email:** [info.abdullahsaeed@gmail.com](mailto:info.abdullahsaeed@gmail.com)
+- **X:** [AbdullahSaeed_x](https://www.x.com/AbdullahSaeed_x)
 
 ---
 
