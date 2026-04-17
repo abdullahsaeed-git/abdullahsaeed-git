@@ -18,7 +18,7 @@ Everything here is built by me, focused on quality and innovation.
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="50" height="50" />
 </a>
 <a href="https://x.com/your-username" style="margin: 0 10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/x.svg" alt="X" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" alt="X" width="50" height="50" />
 </a>
 </div>
  
