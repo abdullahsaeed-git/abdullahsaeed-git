@@ -11,15 +11,6 @@ Everything here is built by me, focused on quality and innovation.
 <a href="https://www.linkedin.com/in/abdullahsaeed-us/" style="margin: 0 10px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="50" height="50" />
 </a>
-<a href="mailto:your.email@example.com" style="margin: 0 10px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Gmail" width="50" height="50" />
-</a>
-<a href="https://github.com/abdullahsaeed" style="margin: 0 10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="50" height="50" />
-</a>
-<a href="https://x.com/your-username" style="margin: 0 10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" alt="X" width="50" height="50" />
-</a>
 </div>
  
 
