@@ -30,8 +30,8 @@ Coming soon. Check back for updates on my latest work.
 
 ## Get In Touch
 
-- **LinkedIn:** [abdullahsaeed-us](https://www.linkedin.com/in/abdullahsaeed-us/)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Abdullah Saeed](https://www.linkedin.com/in/abdullahsaeed-us/)
+- **Email:** [info.abdullahsaeed@gmail.com](mailto:info.abdullahsaeed@gmail.com)
 
 ---
 
