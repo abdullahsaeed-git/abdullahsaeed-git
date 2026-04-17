@@ -5,7 +5,7 @@ I'm a software engineer focused on building clean, efficient web and mobile appl
 Currently, I'm pursuing my degree in **Software Engineering** while working on projects that challenge me to grow as a developer.
  
 Everything here is built by me, focused on quality and innovation.
- <div align="center" style="margin: 30px 0;">
+ <div align="center" style="margin: 30px 0; display: flex">
 <a href="https://www.linkedin.com/in/abdullahsaeed-us/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
 </a>
