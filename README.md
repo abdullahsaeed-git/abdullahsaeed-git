@@ -6,6 +6,13 @@ Currently, I'm pursuing my degree in **Software Engineering** while working on p
  
 Everything here is built by me, focused on quality and innovation.
 
+<div align="center" style="margin: 30px 0;">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahsaeed-us/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.abdullahsaeed@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/abdullahsaeed_x)
+ 
+</div>
+
 ---
 
 ## Skills
