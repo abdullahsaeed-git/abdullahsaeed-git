@@ -8,10 +8,10 @@ Everything here is built by me, focused on quality and innovation.
  
 
  <div style="margin: 30px 0; display: flex; align-item: center; gap: 20px; ">
-<a href="https://www.linkedin.com/in/abdullahsaeed-us/" style="margin: 0 10px; display: inline;">
+<a href="https://www.linkedin.com/in/abdullahsaeed-us/" style="margin: 0 10px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="50" height="50" />
 </a>
-<a href="mailto:your.email@example.com" style="margin: 0 10px; display:inline;">
+<a href="mailto:your.email@example.com" style="margin: 0 10px; display:inline-block;">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Gmail" width="50" height="50" />
 </a>
 <a href="https://github.com/abdullahsaeed" style="margin: 0 10px;">
