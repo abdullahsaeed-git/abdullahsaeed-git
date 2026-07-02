@@ -56,18 +56,19 @@ Currently, I'm working on projects that make **Islamic knowledge**—including t
 </p>
 
 ---
-
 ## 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🕌 **[Saihun Institute](https://github.com/abdullahsaeed-git/Saihun-Institute)** | A React web application for exploring Islamic knowledge, including the Quran and Hadith. It integrates HadithAPI alongside bundled offline datasets to provide easy access to major Hadith collections such as Sahih Bukhari and Sahih Muslim. | React 19 · Vite · React Router v7 · Bootstrap |
-| 💰 **[Employee Payroll Management System (JavaFX)](https://github.com/abdullahsaeed-git/Employee-Payroll-Management-System-JavaFx)** | Desktop payroll management system built for an Object-Oriented Programming semester project. Features employee management, salary and tax calculations, attendance bonuses, and persistent storage using Java Serialization. | Java · JavaFX |
-| 📡 **[NurStream](https://github.com/abdullahsaeed-git/nurstream)** | An early-stage React application built with TypeScript and Vite. | React · TypeScript · Vite |
-| 📚 **[learnings](https://github.com/abdullahsaeed-git/learnings)** | A personal playground containing projects and experiments while learning React and modern frontend development. | React · Vite |
-| 🤝 **[hadithmv.github.io](https://github.com/abdullahsaeed-git/hadithmv.github.io)** *(Fork)* | Contributions to the Maldivian community project dedicated to translating the Sunnah into the Dhivehi language. | HTML |
+| Project | Description | Stack |
+|---|---|---|
+| 💬 **[NovaChat](https://github.com/abdullahsaeed-git/NovaChat)** | A modern real-time chat application featuring one-on-one and group messaging with a responsive interface. | React |
+| 📡 **[NurStream](https://github.com/abdullahsaeed-git/nurstream)** | A social media platform inspired by modern networking apps, featuring feeds, posts, user profiles, and community interactions. | React · TypeScript · Vite |
+| 📖 **[EasyDeen](https://github.com/abdullahsaeed-git/EasyDeen)** | An online learning platform (CMS) for organizing, managing, and delivering structured religious and educational content. | React |
+| 🕌 **[Saihun Institute](https://github.com/abdullahsaeed-git/Saihun-Institute)** | A web application for exploring Islamic knowledge, including the Quran and Hadith. It integrates HadithAPI with bundled offline datasets for major collections such as Sahih Bukhari and Sahih Muslim. | React 19 · Vite · React Router v7 · Bootstrap |
+| 🗂️ **[Social Post Organizer](https://github.com/abdullahsaeed-git/Social-Post-Organizer)** | A productivity tool for planning, organizing, scheduling, and managing content across multiple social media platforms. | React |
+| 💰 **[Employee Payroll Management System](https://github.com/abdullahsaeed-git/Employee-Payroll-Management-System-JavaFx)** | A JavaFX desktop payroll system demonstrating OOP concepts through employee management, salary calculations, attendance tracking, and data persistence. | Java · JavaFX |
 
-> 💡 Most of my personal work revolves around building educational platforms and improving access to authentic Islamic resources through modern web technologies.
+> 💡 My portfolio primarily focuses on **React-based applications**, ranging from real-time communication and social platforms to educational systems, productivity tools, and desktop software.
+
 
 ---
 
