@@ -72,14 +72,6 @@ Currently, I'm working on projects that make **Islamic knowledge**—including t
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahsaeed-git&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsaeed-git&layout=compact&hide_border=true" />
-</p>
-
----
 
 ## 📫 Get In Touch
 
