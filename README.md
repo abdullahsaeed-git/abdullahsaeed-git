@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Abdullah Saeed 👋</h1>
-<h3 align="center">React | React Native | Application Developer</h3>
+<h3 align="center">Frontend Developer | React & TypeScript</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/abdullahsaeed-us"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -11,9 +11,9 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineering student and application developer passionate about building clean, scalable, and user-friendly **web** and **mobile** applications.
+I'm a Software Engineering student and frontend developer passionate about building clean, scalable, and user-friendly applications.
 
-My primary focus is **React** and **React Native**, while continuously expanding my skills in **TypeScript** and full-stack development. I enjoy turning ideas into practical products, particularly those related to education and community-driven platforms.
+My primary focus is **React**, while continuously expanding my skills in **TypeScript** and full-stack development. I enjoy turning ideas into practical products, particularly those related to education and community-driven platforms.
 
 Currently, I'm working on projects that make **Islamic knowledge**—including the **Quran** and **Hadith**—more accessible through modern technology.
 
